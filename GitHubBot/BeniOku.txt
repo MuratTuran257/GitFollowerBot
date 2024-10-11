@@ -1,0 +1,13 @@
+Bu kod, Selenium kütüphanesini kullanarak otomatik olarak GitHub hesabınıza giriş yapar ve takipçi listenizi çeker. Kodu çalıştırmak için aşağıdaki adımları izleyin:
+
+Selenium Kütüphanesini Yükleyin: Terminale şu komutu girerek Selenium kütüphanesini yükleyin:
+
+pip install selenium
+WebDriver Ayarları:
+
+Selenium’un Chrome tarayıcısında çalışması için ChromeDriver veya Firefox için GeckoDriver’ı indirmeniz gerekiyor.
+Bu sürücüleri indirdikten sonra bir klasör oluşturun ve bu dosyaları klasöre kaydedin.
+Tarayıcı Ayarları:
+
+Koddaki tarayıcı ayarlarını Firefox yerine Chrome olarak güncelleyebilirsiniz.
+Bu adımları takip ettikten sonra, kodu klasör içinden çalıştırarak GitHub hesabınıza otomatik giriş ve takipçi verilerinizi alma işlemini gerçekleştirebilirsiniz.
